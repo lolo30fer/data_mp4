@@ -13,4 +13,4 @@ git branch -M main
 sleep 5
 git remote add origin https://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@github.com/lolo30fer/data_mp4.git
 sleep 5
-git pull -u origin main
+git push -u origin main
